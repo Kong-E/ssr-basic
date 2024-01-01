@@ -1,0 +1,9 @@
+[submodule "webpack-ssr"]
+	path = webpack-ssr
+	url = https://github.com/Kong-E/webpack-ssr.git
+[submodule "deep-dive-ssr-example"]
+	path = deep-dive-ssr-example
+	url = https://github.com/Kong-E/deep-dive-ssr-example.git
+[submodule "deep-dive-next-example"]
+	path = deep-dive-next-example
+	url = https://github.com/Kong-E/deep-dive-next-example.git
